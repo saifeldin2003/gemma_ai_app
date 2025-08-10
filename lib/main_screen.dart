@@ -52,7 +52,7 @@ class MainScreenState extends State<MainScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: _chatItems.isEmpty ? appBar() : null,
+      appBar: _chatItems.isEmpty && _isModelReady ? appBar() : null,
       body: SafeArea(
         child: Stack(
           children: [
