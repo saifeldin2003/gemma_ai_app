@@ -1,16 +1,17 @@
 # gemma_app_ai
 
-A new Flutter project.
+Chat App with Integrated AI Model (Flutter + Gemma)
+A Flutter-based chat application that integrates the Gemma AI model locally without requiring an internet connection. The app provides a modern chat UI, supports user and AI messages, and simulates typing animations similar to ChatGPT or Gemini.
 
-## Getting Started
+✨ Features
+🤖 Local AI Model Processing – Run the AI completely offline using the flutter_gemma package.
 
-This project is a starting point for a Flutter application.
+💬 Real-time Chat UI – Smooth, responsive, and customizable chat interface.
 
-A few resources to get you started if this is your first Flutter project:
+⌨️ Typing Animation – AI responses appear character-by-character for a realistic chat feel.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📜 Scroll to Latest Message – Automatically scrolls to the newest message after sending or receiving.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🎨 Theming Support – Dark mode support with customizable colors.
+
+📝 Auto-growing Text Field – Input expands automatically as you type multiple lines.
