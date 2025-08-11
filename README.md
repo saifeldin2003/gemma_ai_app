@@ -15,3 +15,8 @@ A Flutter-based chat application that integrates the Gemma AI model locally with
 🎨 Theming Support – Dark mode support with customizable colors.
 
 📝 Auto-growing Text Field – Input expands automatically as you type multiple lines.
+
+Notice: The model has been removed for convenience. 
+  After cloning, you can download the same model from here: https://www.kaggle.com/models/google/gemma/tfLite/gemma-1.1-2b-it-gpu-int4
+  And Package : https://pub.dev/packages/flutter_gemma
+
